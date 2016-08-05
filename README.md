@@ -1,7 +1,7 @@
 Sonar GitLab Plugin
 ===================
 
-Forked from https://gitlab.talanlabs.com/gabriel-allaigre/sonar-gitlab-plugin
+Forked from https://gitlab.talanlabs.com/gabriel-allaigre/sonar-gitlab-plugin, which was forked from https://github.com/SonarCommunity/sonar-github :)
 
 # Goal
 
